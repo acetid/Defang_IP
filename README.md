@@ -16,20 +16,24 @@ This Python script takes an IP address as input and formats it by replacing the 
 # Usage
 
 1. **Clone the repository**
+```bash
 git clone https://github.com/yourusername/your-repository-name.git
 cd your-repository-name
+```
 
 2. **Create or Edit the Script**:
-Save the script provided above as ip_formatter.py in the cloned repository or modify the existing file.
+- Save the script provided above as ip_formatter.py in the cloned repository or modify the existing file.
 
 3. **Run the script**:
+```
 python3 ip_formatter.py
+```
 
-4. **Input Your IP Address**:
-Edit the line my_new_ip = ip_address("192.168.1.1") in the script to use the IP address you want to format.
+5. **Input Your IP Address**:
+- Edit the line my_new_ip = ip_address("192.168.1.1") in the script to use the IP address you want to format.
 
 5. **View the Output**:
-The script will print the formatted IP address with [.] replacing each ..
+- The script will print the formatted IP address with [.] replacing each ..
 
 # Requirements
 
