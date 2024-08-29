@@ -29,7 +29,7 @@ cd your-repository-name
 python3 ip_formatter.py
 ```
 
-5. **Input Your IP Address**:
+4. **Input Your IP Address**:
 - Edit the line my_new_ip = ip_address("192.168.1.1") in the script to use the IP address you want to format.
 
 5. **View the Output**:
